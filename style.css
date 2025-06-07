@@ -1,0 +1,29 @@
+.base-card{
+    background-color: #d2cfcf;
+    padding: 8px 0px;
+}
+
+.title,
+.subtitle{
+    margin: 8px;
+    background-color: beige;
+    text-align: center;
+}
+
+.title {
+    font-style: italic;
+}
+
+.subtitle{
+    margin-bottom: 0px;
+}
+
+.list,
+.content{
+    margin: 8px;
+    background-color: beige;
+}
+img{
+    width: 400px;
+    height: auto;
+}
