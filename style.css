@@ -1,3 +1,7 @@
+html{
+    font-family: 'Times New Roman', Times, serif;
+}
+
 .base-card{
     background-color: #d2cfcf;
     padding: 8px 0px;
@@ -21,9 +25,15 @@
 .list,
 .content{
     margin: 8px;
+    margin-top: 0px;
     background-color: beige;
+}
+.content {
+    padding: 8px;
 }
 img{
     width: 400px;
     height: auto;
+    display: block;
+    margin: auto;
 }
